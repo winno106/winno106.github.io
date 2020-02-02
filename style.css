@@ -4,6 +4,7 @@
         
  body {
             background-color: rgb(242, 242, 242);
+            text-align: center;
         }
 .top {
            text-align: center;
@@ -16,3 +17,7 @@ margin-left: 300px;
 margin-right: 300px;
 
      {
+table.center {
+         margin-left: auto;
+         margin-right: auto;
+      }
