@@ -11,7 +11,8 @@
            margin-right: auto;       
 }
 #buttons {
+display: block;
 margin-left: 300px;
-margin-right: auto;
+margin-right: 300px;
 
      {
